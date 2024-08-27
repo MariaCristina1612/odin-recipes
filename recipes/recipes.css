@@ -1,0 +1,107 @@
+/* This is the css for banana-bread recipe */
+
+.recipe-1 {
+    display: flex;
+    width: 100%;
+    background-color: #e5c292;
+    border-top: brown solid 3px;
+    border-left: brown solid 3px;
+    border-right: brown solid 3px;
+}
+.recipe-1 h1,.recipe-1 img {
+    flex: 1;
+    margin: 0;
+    object-fit: cover;
+}
+.recipe-1 img {
+    height: auto;
+    max-width: 100%;
+}
+.recipe-1 h1 {
+    text-align: center;
+    margin: auto;
+    color: #c97a0e;
+}
+.content-1 {
+    background-color: #e5c292;
+    width: 100%;
+    margin: 0;
+    list-style-position: inside;
+    text-align: center;
+    border: brown solid 3px;
+}
+.content-1 h2, .content-1 h3 {
+    color: #c97a0e;
+}
+
+/* This is the css for buddha-bowl recipe */
+
+.recipe-2 {
+    display: flex;
+    width: 100%;
+    background-color: #b8ddaa;
+    border-top: rgb(33, 112, 13) solid 3px;
+    border-left: rgb(33, 112, 13) solid 3px;
+    border-right: rgb(33, 112, 13) solid 3px;
+}
+.recipe-2 h1,.recipe-2 img {
+    flex: 1;
+    margin: 0;
+    object-fit: cover;
+}
+.recipe-2 img {
+    height: auto;
+    max-width: 100%;
+}
+.recipe-2 h1 {
+    text-align: center;
+    margin: auto;
+    color: #08570c;
+}
+.content-2 {
+    background-color: #b8ddaa;
+    width: 100%;
+    margin: 0;
+    list-style-position: inside;
+    text-align: center;
+    border: rgb(33, 112, 13) solid 3px;
+}
+.content-2 h2, .content-2 h3 {
+    color: #08570c;
+}
+
+/* This is the css for buddha-bowl recipe */
+
+.recipe-3 {
+    display: flex;
+    width: 100%;
+    background-color: rgb(240, 205, 142);
+    border-top: rgb(105, 72, 11) solid 3px;
+    border-left: rgb(105, 72, 11) solid 3px;
+    border-right: rgb(105, 72, 11) solid 3px;
+}
+.recipe-3 h1,.recipe-3 img {
+    flex: 1;
+    margin: 0;
+    object-fit: cover;
+}
+.recipe-3 img {
+    height: auto;
+    max-width: 100%;
+}
+.recipe-3 h1 {
+    text-align: center;
+    margin: auto;
+    color: #08570c;
+}
+.content-3 {
+    background-color: rgb(240, 205, 142);
+    width: 100%;
+    margin: 0;
+    list-style-position: inside;
+    text-align: center;
+    border: rgb(105, 72, 11) solid 3px;
+}
+.content-3 h2, .content-3 h3 {
+    color: #08570c;
+}
